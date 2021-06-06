@@ -15,3 +15,5 @@ Thumbs.db
 
 # DO NOT PUSH GIT INFO
 .extra
+
+private.key
